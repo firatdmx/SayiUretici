@@ -1,0 +1,2 @@
+# SayiUretici
+Rastgele Sayı Üretici
